@@ -29,7 +29,7 @@ Interactive slicers were added to allow quick filtering of pivot table results, 
 
 
 ---
-![ScreenShot]()
+![ScreenShot](images/Pivot_table_slicers.png)
 
 ## 📄 Project Files
 - **Excel Workbook:** Contains raw data, pivot tables, slicers, and charts.
